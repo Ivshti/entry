@@ -1,0 +1,27 @@
+{
+  "name": "entry",
+  "version": "0.0.3",
+  "description": "UPnP library that works.",
+  "main": "./lib",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "dependencies": {
+    "needle": "",
+    "xml2js": ""
+  },
+  "devDependencies": {
+    "mocha": "",
+    "should": "",
+    "sinon": ""
+  },
+  "repository": "",
+  "author": {
+    "name": "Tomas Pollak",
+    "email": "tomas@forhq.com"
+  },
+  "license": "BSD",
+  "_id": "entry@0.0.3",
+  "readme": "ERROR: No README.md file found!",
+  "_from": "entry@"
+}
