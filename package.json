@@ -7,8 +7,8 @@
     "test": "mocha test"
   },
   "dependencies": {
-    "needle": "",
-    "xml2js": ""
+    "needle": "0.7.x",
+    "xml2js": "0.4.4"
   },
   "devDependencies": {
     "mocha": "",
